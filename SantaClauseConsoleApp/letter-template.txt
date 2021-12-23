@@ -1,0 +1,5 @@
+Dear Santa,
+I am [FULL_NAME]
+I am [AGE] years old. I live at [ADDRESS]. I have been a very [BEHAVIOR] child this year
+What I would like the most this Christmas is:
+[PRESENT1],[PRESENT2]
