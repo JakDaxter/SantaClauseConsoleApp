@@ -69,7 +69,7 @@ namespace SantaClauseConsoleApp.Repo
                         {
                             Letter newLetter = new Letter()//Cream scrisoare
                             {
-                                Date = System.IO.File.GetLastWriteTime(file2),
+                                Date = System.IO.File.GetLastWriteTime(file2), //consideram ziua ultimei modificari ca ziua in care a fost creata
                                 Child = new Child()
                                 {
                                     Full_Name = data[0],
