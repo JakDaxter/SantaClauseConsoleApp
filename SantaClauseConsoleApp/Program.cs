@@ -1,7 +1,6 @@
 ﻿using SantaClauseConsoleApp.Repo;
 using System;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
 namespace SantaClauseConsoleApp
 {
@@ -9,12 +8,12 @@ namespace SantaClauseConsoleApp
     {
         static void Main(string[] args)
         {
-            //Question1();
-            //Question2();
-            //Question3();
-            //Question4();
-            //Question5();
-            //Question6();
+            Question1();
+            Question2();
+            Question3();
+            Question4();
+            Question5();
+            Question6();
         }
 
         static void Question1()
